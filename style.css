@@ -186,7 +186,7 @@ img {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url('assets/IMG_1589.jpg') center/cover no-repeat;
+    background: url('assets/IMG_1589.jpg') center top/cover no-repeat;
     padding-top: 68px;
 }
 
@@ -646,7 +646,7 @@ img {
 
 /* === 9. CTA FINAL === */
 .cta-final {
-    background: url('assets/IMG_1590.jpg') center/cover no-repeat;
+    background: url('assets/IMG_1590.jpg') center top/cover no-repeat;
     color: var(--branco);
     text-align: center;
     padding: 100px 0;
